@@ -6,7 +6,7 @@
 </head>
 <body>
     <script>
-	alert("Nafizul Izzata Insan Nakaya\nMobile (1)")
+	alert("Nafizul Izzata Insan Nakaya\nMobile (1)") //WM
 for(var a = 1; a < 10; a++) {
     for(var b = 1; b <10; b++) {
          if(a == b || a + b == 10) {
