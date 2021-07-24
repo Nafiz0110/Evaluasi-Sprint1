@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Percabangan switch/case</title>
+    <title>Evaluasi Sprint1</title>
 </head>
 <body>
     <script>
