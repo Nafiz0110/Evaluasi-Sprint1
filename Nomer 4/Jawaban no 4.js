@@ -8,7 +8,7 @@
 for(let i = 60; i < 100; i++){
     if(i%2==0) {
     document.write("<p>Angka Genap : " + i + "</p>")
-}
+ }
 }
 </script>
 </body>
