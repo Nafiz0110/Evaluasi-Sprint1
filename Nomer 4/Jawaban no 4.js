@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Nafizz</title>
+    <title>Evaluasi Sprint1/title>
 </head>
 <body>
     <script>
