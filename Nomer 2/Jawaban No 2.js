@@ -12,13 +12,13 @@
         switch(nilai){
 		case nilai > 90:
 		    grade = 'A';
-			break
+			break;
 		case nilai > 80:
 		    grade = 'B+';
-			break
+			break;
 		case nilai > 70:
 		    grade = 'B';
-			break
+			break;
             default:
                 document.write(grade);
         }
