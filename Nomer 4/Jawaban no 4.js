@@ -6,9 +6,9 @@
 <body>
     <script>
     alert("Nafizul Izzata Insan Nakaya\nMobile (1)")
-for(let i = 60; i < 100; i++){
-    if(i%2==0) {
-    document.write("<p>Angka Genap : " + i + "</p>")
+for(let i = 60; i <= 100; i++){
+    if(i%2!=0) {
+    document.write("<p>Angka Ganjil : " + i + "</p>")
  }
 }
 </script>
